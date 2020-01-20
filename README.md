@@ -13,3 +13,7 @@ All game object artwork comes directly from the original Bad Ice Cream series, a
 Background artwork was sourced from Google Images. The specific sources are still being compiled. 
 
 Background music and SFX were sourced from Youtube. The specific sources are still being compiled.
+
+#### Images
+
+!(Media\Sample1.png)
