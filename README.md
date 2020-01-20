@@ -16,4 +16,4 @@ Background music and SFX were sourced from Youtube. The specific sources are sti
 
 #### Images
 
-!(https://github.com/ZhengmaoOuyang/Bad-Ice-Cream-4/blob/master/Media/Sample1.png)
+![Test Image 1](https://github.com/ZhengmaoOuyang/Bad-Ice-Cream-4/blob/master/Media/Sample1.png)
