@@ -8,7 +8,7 @@ Simply download and run the BIC4Final.jar file! The password to get into the gam
 Pages accessed for the project are included in a bibliography at the end of the User Manual in the Documentation folder.
 
 #### Assets
-All game object artwork comes directly from the original Bad Ice Cream series, and belongs to the creators of the game.
+All game object artwork comes directly from the original Bad Ice Cream series, and belongs to the creators of the game. Buttons, titles, and labels are my own.
 
 Background artwork was sourced from Google Images. The specific sources are still being compiled. 
 
